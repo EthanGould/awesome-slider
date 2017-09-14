@@ -1,0 +1,25 @@
+$slider: 'slider';
+
+.#{$slider} {
+
+	h2 {
+		font-family: sans-serif;
+	}
+
+	&__list {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		white-space: nowrap;
+		overflow: hidden;
+	}
+
+	&__item {
+		display: inline-block;
+		width: 100%;
+	}
+
+	&__img {
+		width: 100%;
+	}
+}

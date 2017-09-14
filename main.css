@@ -1,0 +1,15 @@
+.slider h2 {
+  font-family: sans-serif; }
+.slider__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  white-space: nowrap;
+  overflow: hidden; }
+.slider__item {
+  display: inline-block;
+  width: 100%; }
+.slider__img {
+  width: 100%; }
+
+/*# sourceMappingURL=main.css.map */
